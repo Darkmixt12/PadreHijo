@@ -1,0 +1,23 @@
+.container{
+    background: rgb(255, 136, 0);
+    width: 90%;
+    height: 78%;
+    margin: 0 auto;
+    color: white;
+}
+.strongHijo{
+   color: rgb(212, 0, 255);
+}
+
+.strongPadre{
+    color: rgb(92, 211, 161);
+ }
+p{
+    font-size: 20px
+}
+
+.unique{
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 30px;
+}

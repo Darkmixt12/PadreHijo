@@ -1,0 +1,24 @@
+.container{
+    background: rgb(92, 211, 161);
+    width: 600px;
+    text-align: center;
+    margin: 0   auto;
+    margin-top: 50px;
+    height: 600px;
+    font-size: 32px;
+    color: white;
+}
+
+p{
+    font-size: 20px
+}
+
+.unique{
+    padding-top: 30px;
+    color: white;
+    font-size: 30px;
+}
+
+.strongHijo{
+    color: rgb(255, 136, 0);
+ }

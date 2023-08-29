@@ -1,0 +1,23 @@
+.container{
+    color: white;
+    width: 50%;
+    background-color: rgb(212, 0, 255);
+    margin: 0 auto;
+    width: 86%;
+    height: 75%;
+
+}
+
+strong{
+    color: rgb(255, 136, 0);
+}
+
+p{
+    font-size: 20px;
+}
+
+#unique{
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 30px;
+}
